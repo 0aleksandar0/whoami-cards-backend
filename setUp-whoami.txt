@@ -1,0 +1,8 @@
+git init
+npm init
+
+# install the dependencies
+npm i express mongoose
+
+# install globaly the node tool nodemon
+npm i -g nodemon
