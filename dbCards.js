@@ -1,7 +1,6 @@
 import mongoose from "mongoose";
 
 // This is how the database fills are gonna be built up
-
 const cardSchema = mongoose.Schema({
   name: String,
   imgUrl: String,
