@@ -6,3 +6,6 @@ npm i express mongoose
 
 # install globaly the node tool nodemon
 npm i -g nodemon
+
+# adding header to every request
+npm i cors
