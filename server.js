@@ -17,8 +17,8 @@ app.use(Cors());
 mongoose.connect(connection_url, {
   // these parameters are used for make the connection smooth because mongoose is under constant development and evolutionn
   useNewUrlParser: true,
-  /* useCreateIndex: true, */
-  /* useUndifiedTopology: true, */
+  /* useCreateIndex: true,
+  useUndifiedTopology: true, */
 });
 
 // API Endpoints
