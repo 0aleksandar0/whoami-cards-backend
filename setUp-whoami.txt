@@ -9,3 +9,6 @@ npm i -g nodemon
 
 # adding header to every request
 npm i cors
+
+#install globaly the firebase-tools 
+npm i -g firebase-tools
